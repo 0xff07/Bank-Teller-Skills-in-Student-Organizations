@@ -1,5 +1,5 @@
-###/**         NON OFFICIAL VERSION    **/<br>
-###/** COPIED FROM NOTIFICATION LETTER **/<br>
+###/**              NOT AN OFFICIAL VERSION!                 **/<br>
+###/** I DID SOME PAGE LAYOUT JOBS TO MAKE IT EASIER TO READ **/<br>
 <br>
 ##[課前預習 & Case Study]<br>
  <br>
@@ -13,7 +13,7 @@
 ####評：講白話就是評估best, worst, average cases，還有自己期望的狀況。<br>
 <br>
 ###財務管理職能：<br>
-	http://wiki.mbalib.com/zh-tw/财务管理职能<br>
+	http://wiki.mbalib.com/zh-tw/财务管理职能
 ####評：利用財務相關的專門知識，來優化錢的使用。<br>
 <br>
 ###想知道上課不會細講但是與實務密切相關的小知識，請看小編精選粉專圖文(以下按po文時間排列)<br>
